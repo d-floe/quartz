@@ -1,8 +1,8 @@
 ---
-title: "Achieving Color Precision"
-description: "d-floe's official guide on achieving optimal color precision on all of you monitors. This guide touches on the basic theory of color precision, how to properly set up your monitors to achieve color precision, and how to deal with color managed applications."
+title: Achieving Color Precision
+description: d-floe's official guide on achieving optimal color precision on all of your monitors. This guide touches on the basic theory of color precision, how to properly set up your monitors to achieve color precision, and how to deal with color managed applications.
 tags:
-- guide
+  - guide
 ---
 
 ## TL;DR
