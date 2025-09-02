@@ -47,8 +47,8 @@ The options available for In-Stock TKLs were really limited at the time, and at 
 
 ### Parts
 
-- Case: black aluminum
+- Case: Black aluminum
 - Configuration: Stupidfish plate and case foam
-- Mounting style: integrated plate
-- Stabilizers: plate mount
+- Mounting style: Integrated plate
+- Stabilizers: Plate mount
 - Switches: [[Glorious Panda|Glorious Panda]]

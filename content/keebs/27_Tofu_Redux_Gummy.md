@@ -25,7 +25,7 @@ WIP
 - Configuration:
     - [[Graveshift-65a-Gray-M-O-ring|Graveshift 65a Gray M O-Ring]]
     - Silicone bumpons added to mounting posts
-- Plate: aluminum thong plate
+- Plate: Aluminum thong plate
 - PCB: [Merro60 PCB](https://keyspresso.ca/products/limited-merro60-60-pcb)
 - Stabilizers: [[TX-AP-Stabilizers-Rev-4|TX AP Stabilizers Rev. 4]]
 - Switches: [CBRKBD Trash Linears](https://www.cbkbd.com/product/trash-linear-switches)

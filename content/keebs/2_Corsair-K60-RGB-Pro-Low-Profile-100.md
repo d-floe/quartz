@@ -30,10 +30,10 @@ The Pudding keycaps on these were so cheap and rough feeling that it for a time 
 
 ### Info
 
-- Case: black brushed aluminum
+- Case: Black brushed aluminum
 - Keycaps: Tecware Pudding Keycaps
-- Mounting style: integrated plate
-- Stabilizers: plate mount
+- Mounting style: Integrated plate
+- Stabilizers: Plate mount
 - Switches: Corsair Low Profile Speed Silver
 
 ### Pricing

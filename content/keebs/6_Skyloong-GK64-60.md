@@ -37,10 +37,10 @@ Got this board shortly before returning my Drop CTRL. I don't specifically remem
 
 ### Parts
 
-- Case: black ABS plastic
+- Case: Black ABS plastic
 - Configuration: Vinyl Shelf Liner Case Foam, PE Foam
-- Mounting style: burger-tray mount
-- Plate: steel
+- Mounting style: Burger-tray mount
+- Plate: Steel
 - Stabilizers: [[Durock-V2-Plate-Mount-Stabilizers|Durock V2 Plate Mount Stabilizers]]
 - Switches: [[Gazzew-Boba-U4|Gazzew Boba U4]]
 

@@ -5,6 +5,7 @@ tags:
   - TKL
   - IntegratedPlate
   - Keyboard
+image: "![[corsair-k65.jpg]]"
 ---
 
 ![[corsair-k65.jpg]]
@@ -14,7 +15,7 @@ tags:
 ## Corsair K65 LUX RGB
 
 - Received: October 29th, 2018
-- Trashed: mid 2021
+- Trashed: Mid 2021
 - Duration Owned: 3 Years
 
 ### Summary

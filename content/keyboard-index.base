@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.tags.contains("Keyboard")
+views:
+  - type: cards
+    name: Keyboards
+    order:
+      - title
+    sort:
+      - property: file.name
+        direction: DESC
+    cardSize: 220
+    imageFit: ""
+    imageAspectRatio: 1.1
+    image: note.image

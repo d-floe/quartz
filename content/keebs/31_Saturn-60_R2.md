@@ -20,10 +20,9 @@ WIP
 
 ### Parts
 
-- Case: black aluminum
-- Configuration:
-    
-- Plate: aluminum
-- PCB: Wooting 60HE+
-- Stabilizers: [[TX-AP-Stabilizers-Rev-4|TX AP Stabilizers Rev. 4]]
-- Switches: 
+- Case: Gray + Black Powder-coated steel
+- Plate: Steel
+- PCB: EC60
+- Stabilizers: KLC/Densus
+- Housings + Sliders: KLC/Densus
+- 

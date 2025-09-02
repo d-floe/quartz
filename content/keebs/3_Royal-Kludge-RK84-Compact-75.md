@@ -31,9 +31,9 @@ This is the only case where I have no photos of this keyboard. I made mock-ups o
 
 ### Info
 
-- Case: white ABS plastic
+- Case: White ABS plastic
 - Keycaps: ABS shine-through
-- Mounting style: tray mount
-- Plate: steel (?)
-- Stabilizers: plate mount
+- Mounting style: Tray mount
+- Plate: Steel (?)
+- Stabilizers: Plate mount
 - Switches: TTC Brown

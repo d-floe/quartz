@@ -37,8 +37,8 @@ This keyboard was my gateway into keyboard modding. Since this board was hot swa
 
 ### Parts
 
-- Case: black ABS plastic
-- Configuration: package foam in lower case
-- Mounting Style: integrated Plate
-- Stabilizers: plate mount
+- Case: Black ABS plastic
+- Configuration: Package foam in lower case
+- Mounting Style: Integrated Plate
+- Stabilizers: Plate mount
 - Switches: [[Kailh-Speed-Copper|Kailh Speed Copper]] / [[Glorious Panda|Glorious Panda]]
