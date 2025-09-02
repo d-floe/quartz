@@ -1,5 +1,5 @@
 ---
-title: ⭐ GEON Frog Mini - HE
+title: GEON Frog Mini - HE
 description: d-floe's keyboard overview for his Hall Effect modded Frog Mini by GEONWORKS.
 tags:
   - Keyboard

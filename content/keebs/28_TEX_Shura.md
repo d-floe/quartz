@@ -21,8 +21,8 @@ WIP
 
 ### Parts
 
-- Case: red aluminum top, plastic black bottom
-- Plate: stainless steel 
+- Case: Red aluminum top, plastic black bottom
+- Plate: Stainless steel 
 - Stabilizers: Typeplus x YiKB Screw-in Stabilizers
 - Switches: QK01 Switches
 
