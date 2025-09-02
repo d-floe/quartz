@@ -9,10 +9,10 @@ tags:
 
 > Saturn-60 with SA Dualshot
 
-## GEON Frog Mini
+## Saturn-60 - Topre Conversion
 
 - Received: 
-- Weight (built): 
+- Sold: 
 
 ### Summary
 
