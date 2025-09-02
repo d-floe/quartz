@@ -5,7 +5,7 @@ tags:
   - TKL
   - IntegratedPlate
   - Keyboard
-image: "![[corsair-k65.jpg]]"
+image: '"![[corsair-k65.jpg]]"'
 ---
 
 ![[corsair-k65.jpg]]
