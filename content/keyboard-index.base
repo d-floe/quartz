@@ -7,9 +7,19 @@ views:
     order:
       - title
     sort:
-      - property: file.name
-        direction: DESC
+      - property: title
+        direction: ASC
     cardSize: 220
     imageFit: ""
     imageAspectRatio: 0.6
     image: note.image
+  - type: table
+    name: View
+    order:
+      - title
+      - tags
+    sort:
+      - property: title
+        direction: ASC
+    columnSize:
+      note.title: 244
