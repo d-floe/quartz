@@ -13,7 +13,7 @@ image: "[[27_Tofu_Redux_Gummy.png]]"
 ## Tofu Redux
 
 - Received: April 13th, 2024
-- Gifted: December 26th, 2025
+- Gifted: December 26th, 2024
 
 ### Summary
 

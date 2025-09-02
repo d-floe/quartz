@@ -1,5 +1,5 @@
 ---
-title: ⭐ HHKB Professional Classic
+title: ⭐ HHKB Pro Classic
 description: d-floe's keyboard overview for his HHKB Professional Classic.
 tags:
   - Keyboard

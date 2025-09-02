@@ -39,9 +39,11 @@ gantt
         Sharkeneko:a21, May 4th 2023,September 2nd 2025
         Model F62:a22, July 22nd 2023,September 2nd 2025
         Sangeo Topre:a26,February 1st 2024,January 7th 2025
-        Tofu Redux:a27,April 13th 2024,December 26th 2025
-        TEX Shura:a28, June 25th 2024,January 5th 2025
-        
+        Tofu Redux:a27,April 13th 2024,December 26th 2024
+        TEX Shura:a28,June 25th 2024,January 5th 2025
+        GEON Frog Mini HE:a29,August 14th 2024,November 9th 2024
+        HHKB Pro Classic:a30,November 20th 2024,September 2nd 2025
+        Saturn-60 Topre:a31,November 23rd 2024,March 16th 2025
 
 		section Ergo
         YMDK Wings:a9, September 7th 2021,December 16th 2021
