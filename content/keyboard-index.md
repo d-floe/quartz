@@ -44,6 +44,7 @@ gantt
         GEON Frog Mini HE:a29,August 14th 2024,November 9th 2024
         HHKB Pro Classic:a30,November 20th 2024,September 2nd 2025
         Saturn-60 Topre:a31,November 23rd 2024,March 16th 2025
+        Hannn H2H:a32,March 27th 2025,September 2nd 2025
 
 		section Ergo
         YMDK Wings:a9, September 7th 2021,December 16th 2021
