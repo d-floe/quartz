@@ -12,7 +12,7 @@ tags:
 ## GEON Frog Mini
 
 - Received: August 14th, 2024
-- Sold: 
+- Sold: November 9th, 2024
 
 ### Summary
 
@@ -21,9 +21,7 @@ WIP
 ### Parts
 
 - Case: black aluminum
-- Configuration:
-    
 - Plate: aluminum
 - PCB: Wooting 60HE+
 - Stabilizers: [[TX-AP-Stabilizers-Rev-4|TX AP Stabilizers Rev. 4]]
-- Switches: 
+- Switches: Black Knight Magnetic Switch

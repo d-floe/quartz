@@ -1,18 +1,18 @@
 ---
-title: ⭐ HHKB Classic
-description: d-floe's keyboard overview for his HHKB Classic.
+title: ⭐ HHKB Professional Classic
+description: d-floe's keyboard overview for his HHKB Professional Classic.
 tags:
   - Keyboard
   - 60Percent
 ---
 ![[30_HHKB_Classic.png]]
 
-> HHKB Classic with Ivory Keycaps
+> HHKB Professional Classic with Ivory Keycaps
 
-## GEON Frog Mini
+## HHKB Professional Classic
 
-- Received: 
-- Weight (built): 
+- Received: November 20th, 2024
+- Weight (built): 533g
 
 ### Summary
 
