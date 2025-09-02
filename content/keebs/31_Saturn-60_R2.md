@@ -12,8 +12,8 @@ image: "[[31_Saturn-60_R2.png]]"
 
 ## Saturn-60 - Topre Conversion
 
-- Received: November 23rd, 2025
-- Sold: 
+- Received: November 23rd, 2024
+- Sold: March 16th, 2025
 
 ### Summary
 
