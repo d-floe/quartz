@@ -1,5 +1,5 @@
 ---
-title: ⭐Ortho60 (Tester)
+title: Ortho60 (Tester)
 description: d-floe's keyboard overview for the Ortho60 (Tester).
 tags:
   - Keyboard

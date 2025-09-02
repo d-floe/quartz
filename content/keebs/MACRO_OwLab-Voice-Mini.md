@@ -1,5 +1,5 @@
 ---
-title: ⭐OwLab Voice Mini
+title: OwLab Voice Mini
 description: d-floe's macropad overview for the Voice Mini by OwLab
 tags:
   - Macropad

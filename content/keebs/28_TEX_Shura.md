@@ -1,5 +1,5 @@
 ---
-title: ⭐ TEX Shura
+title: TEX Shura
 description: d-floe's keyboard overview for the Shura by TEX Keyboards.
 tags:
   - Keyboard

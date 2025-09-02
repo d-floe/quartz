@@ -1,5 +1,5 @@
 ---
-title: ⭐ Tofu Redux - Gummy Thong Plate
+title: Tofu Redux - Gummy Thong Plate
 description: d-floe's keyboard overview for his Gummy O-Ring Tofu Redux by KBDFans.
 tags:
   - Keyboard

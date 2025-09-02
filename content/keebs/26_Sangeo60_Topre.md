@@ -1,5 +1,5 @@
 ---
-title: ⭐Sangeo60 - Topre
+title: Sangeo60 - Topre
 description: d-floe's keyboard overview for his topre modded Sangeo60 By Monstargear
 tags:
   - Keyboard
