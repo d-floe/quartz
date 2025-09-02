@@ -14,7 +14,7 @@ tags:
 ## Monstargear Sangeo60 Topre
 
 - Received: February 1st, 2024
-- Weight (built): 
+- Sold: January 7th, 2025
 
 ### Summary
 WIP

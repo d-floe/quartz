@@ -12,7 +12,7 @@ tags:
 ## Tofu Redux
 
 - Received: April 13th, 2024
-- Weight (built): 
+- Gifted: December 26th, 2025
 
 ### Summary
 

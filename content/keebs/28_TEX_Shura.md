@@ -11,8 +11,8 @@ tags:
 
 ## TEX Shura
 
-- Received: 
-- Weight (built): 
+- Received: June 25th, 2024
+- Sold: January 5th, 2025
 
 ### Summary
 
