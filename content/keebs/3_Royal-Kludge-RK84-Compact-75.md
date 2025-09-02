@@ -5,6 +5,7 @@ tags:
   - 75Percent
   - TrayMount
   - Keyboard
+image: "[[rk84.png]]"
 ---
 
 ![[rk84.png]]

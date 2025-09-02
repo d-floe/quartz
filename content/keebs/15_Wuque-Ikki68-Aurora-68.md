@@ -5,6 +5,7 @@ tags:
   - 65Percent
   - GasketMount
   - Keyboard
+image: "[[ikki68-aurora.jpg]]"
 ---
 
 ![[ikki68-aurora.jpg]]

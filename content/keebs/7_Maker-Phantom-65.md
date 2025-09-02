@@ -5,6 +5,7 @@ tags:
   - 65Percent
   - GummyOring
   - Keyboard
+image: "[[maker-phantom.jpg]]"
 ---
 
 ![[maker-phantom.jpg]]

@@ -1,9 +1,10 @@
 ---
-title: "Pikatea Macropad GB4"
-description: "d-floe's macropad overview for the Macropad GB4 by Pikatea"
+title: Pikatea Macropad GB4
+description: d-floe's macropad overview for the Macropad GB4 by Pikatea
 tags:
-- Macropad
-- Keyboard
+  - Macropad
+  - Keyboard
+image: "[[MACRO_Pikatea-Macropad-GB4.jpg]]"
 ---
 
 ![[MACRO_Pikatea-Macropad-GB4.jpg]]

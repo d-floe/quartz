@@ -4,6 +4,7 @@ description: d-floe's keyboard overview for his Saturn-60 - Topre Conversion.
 tags:
   - Keyboard
   - 60Percent
+image: "[[31_Saturn-60_R2.png]]"
 ---
 ![[31_Saturn-60_R2.png]]
 
@@ -11,7 +12,7 @@ tags:
 
 ## Saturn-60 - Topre Conversion
 
-- Received: 
+- Received: November 23rd, 2025
 - Sold: 
 
 ### Summary

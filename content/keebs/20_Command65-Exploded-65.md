@@ -5,6 +5,7 @@ tags:
   - 65Percent
   - PseudoTopMount
   - Keyboard
+image: "[[20_Command65-Exploded-65.png]]"
 ---
 
 ![[20_Command65-Exploded-65.png]]

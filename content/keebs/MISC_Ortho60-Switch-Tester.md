@@ -5,6 +5,7 @@ tags:
   - Keyboard
   - Ortholinear
   - SwitchTester
+image: "[[MISC_Ortho60-Switch-Tester-5.png]]"
 ---
 
 ![[MISC_Ortho60-Switch-Tester-5.png]]

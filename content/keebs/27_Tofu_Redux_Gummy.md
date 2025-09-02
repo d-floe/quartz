@@ -4,6 +4,7 @@ description: d-floe's keyboard overview for his Gummy O-Ring Tofu Redux by KBDFa
 tags:
   - Keyboard
   - 60Percent
+image: "[[27_Tofu_Redux_Gummy.png]]"
 ---
 
 ![[27_Tofu_Redux_Gummy.png]]

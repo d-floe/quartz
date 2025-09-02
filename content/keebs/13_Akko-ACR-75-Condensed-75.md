@@ -5,6 +5,7 @@ tags:
   - 75Percent
   - StackMount
   - Keyboard
+image: "[[akko-acr75.jpg]]"
 ---
 
 ![[akko-acr75.jpg]]

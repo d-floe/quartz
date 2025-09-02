@@ -4,6 +4,7 @@ description: d-floe's macropad overview for the Triple Knob Macropad by Megalodo
 tags:
   - Macropad
   - Keyboard
+image: "[[MACRO_Megalodon-Triple-Knob.png]]"
 ---
 
 ![[MACRO_Megalodon-Triple-Knob.png]]

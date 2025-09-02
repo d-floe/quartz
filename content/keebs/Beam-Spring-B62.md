@@ -1,8 +1,9 @@
 ---
-title: "Beam Spring B62"
-description: "d-floe's keyboard overview for the Beam Spring B62 Keyboard by Model F Labs"
+title: Beam Spring B62
+description: d-floe's keyboard overview for the Beam Spring B62 Keyboard by Model F Labs
 tags:
-- Keyboard
+  - Keyboard
+draft: true
 ---
 
 ![[Beam-Spring-B62-Repro.jpg]]

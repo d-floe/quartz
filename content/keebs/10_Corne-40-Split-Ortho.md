@@ -6,6 +6,7 @@ tags:
   - Ortholinear
   - StackMount
   - Keyboard
+image: "[[corne.jpg]]"
 ---
 
 ![[corne.jpg]]

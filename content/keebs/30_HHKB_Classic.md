@@ -4,6 +4,7 @@ description: d-floe's keyboard overview for his HHKB Professional Classic.
 tags:
   - Keyboard
   - 60Percent
+image: "[[30_HHKB_Classic.png]]"
 ---
 ![[30_HHKB_Classic.png]]
 

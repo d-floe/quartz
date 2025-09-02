@@ -5,6 +5,7 @@ tags:
   - 60Percent
   - GasketMount
   - Keyboard
+image: "[[cmm-isabell.jpg]]"
 ---
 
 ![[cmm-isabell.jpg]]

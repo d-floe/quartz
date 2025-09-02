@@ -5,6 +5,7 @@ tags:
   - Keyboard
   - 60Percent
   - Topre
+image: "[[26_Sangeo60_Topre.png]]"
 ---
 
 ![[26_Sangeo60_Topre.png]]

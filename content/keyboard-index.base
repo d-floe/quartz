@@ -11,5 +11,5 @@ views:
         direction: DESC
     cardSize: 220
     imageFit: ""
-    imageAspectRatio: 1.1
+    imageAspectRatio: 0.6
     image: note.image

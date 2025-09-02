@@ -4,6 +4,7 @@ description: d-floe's keyboard overview for the Shura by TEX Keyboards.
 tags:
   - Keyboard
   - 60Percent
+image: "[[28_TEX_Shura.png]]"
 ---
 ![[28_TEX_Shura.png]]
 

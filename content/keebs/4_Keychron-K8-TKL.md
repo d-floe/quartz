@@ -5,6 +5,7 @@ tags:
   - TKL
   - IntegratedPlate
   - Keyboard
+image: "[[keychron-k8.jpg]]"
 ---
 
 ![[keychron-k8.jpg]]

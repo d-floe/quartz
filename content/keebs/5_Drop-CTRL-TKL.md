@@ -5,6 +5,7 @@ tags:
   - TKL
   - IntegratedPlate
   - Keyboard
+image: "[[drop-ctrl.jpg]]"
 ---
 
 ![[drop-ctrl.jpg]]

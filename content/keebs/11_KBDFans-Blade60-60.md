@@ -5,6 +5,7 @@ tags:
   - 60Percent
   - TrayMount
   - Keyboard
+image: "[[blade60.jpg]]"
 ---
 
 ![[blade60.jpg]]

@@ -4,6 +4,7 @@ description: d-floe's macropad overview for the Voice Mini by OwLab
 tags:
   - Macropad
   - Keyboard
+image: "[[MACRO_OwLab-Voice-Mini.png]]"
 ---
 
 ![[MACRO_OwLab-Voice-Mini.png]]

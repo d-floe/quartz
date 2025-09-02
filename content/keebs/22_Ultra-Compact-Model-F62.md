@@ -4,6 +4,7 @@ description: d-floe's keyboard overview for the Model F62 Ultra Compact by Model
 tags:
   - 60Percent
   - Keyboard
+image: "[[22_Ultra-Compact-Model-F62-24.png]]"
 ---
 
 ![[22_Ultra-Compact-Model-F62-24.png]]

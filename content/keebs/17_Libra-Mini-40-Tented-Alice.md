@@ -6,6 +6,7 @@ tags:
   - 40Percent
   - GasketMount
   - Keyboard
+image: "[[libra-mini.jpg]]"
 ---
 
 ![[libra-mini.jpg]]

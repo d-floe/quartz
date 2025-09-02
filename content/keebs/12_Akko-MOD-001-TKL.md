@@ -5,6 +5,7 @@ tags:
   - TKL
   - TrayMount
   - Keyboard
+image: "[[akko-mod001.jpg]]"
 ---
 
 ![[akko-mod001.jpg]]

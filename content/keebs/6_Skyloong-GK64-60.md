@@ -5,6 +5,7 @@ tags:
   - 60Percent
   - TrayMount
   - Keyboard
+image: "[[gk64.jpg]]"
 ---
 
 ![[gk64.jpg]]

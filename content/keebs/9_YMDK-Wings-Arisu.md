@@ -5,6 +5,7 @@ tags:
   - Arisu
   - IntegratedPlate
   - Keyboard
+image: "[[ymdk-wings.jpg]]"
 ---
 
 ![[ymdk-wings.jpg]]

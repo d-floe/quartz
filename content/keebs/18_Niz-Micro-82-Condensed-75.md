@@ -5,6 +5,7 @@ tags:
   - 75Percent
   - SandwichMount
   - Keyboard
+image: "[[niz-micro-82.png]]"
 ---
 
 ![[niz-micro-82.png]]

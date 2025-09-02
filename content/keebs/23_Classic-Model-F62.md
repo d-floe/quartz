@@ -4,6 +4,7 @@ description: d-floe's keyboard overview for the Model F62 Classic by Model F Lab
 tags:
   - 60Percent
   - Keyboard
+image: "[[23_Classic-Model-F62.png]]"
 ---
 
 ![[23_Classic-Model-F62.png]]

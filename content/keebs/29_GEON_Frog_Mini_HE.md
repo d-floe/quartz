@@ -4,6 +4,7 @@ description: d-floe's keyboard overview for his Hall Effect modded Frog Mini by 
 tags:
   - Keyboard
   - 60Percent
+image: "[[29_GEON_Frog_Mini_HE.png]]"
 ---
 ![[29_GEON_Frog_Mini_HE.png]]
 

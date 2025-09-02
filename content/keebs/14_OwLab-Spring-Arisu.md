@@ -5,6 +5,7 @@ tags:
   - Arisu
   - LeafSpringMount
   - Keyboard
+image: "[[owlab-spring.jpg]]"
 ---
 
 ![[owlab-spring.jpg]]

@@ -5,6 +5,7 @@ tags:
   - 75Percent
   - GasketMount
   - Keyboard
+image: "[[gmmk-pro.jpg]]"
 ---
 
 ![[gmmk-pro.jpg]]

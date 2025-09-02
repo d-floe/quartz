@@ -5,6 +5,7 @@ tags:
   - 100Percent
   - IntegratedPlate
   - Keyboard
+image: "[[corsair-k60.jpg]]"
 ---
 
 ![[corsair-k60.jpg]]

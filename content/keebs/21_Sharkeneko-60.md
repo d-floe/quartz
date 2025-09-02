@@ -5,6 +5,7 @@ tags:
   - 60Percent
   - GummyOring
   - Keyboard
+image: "[[21_Sharkeneko-60-14.png]]"
 ---
 
 ![[21_Sharkeneko-60-14.png]]
