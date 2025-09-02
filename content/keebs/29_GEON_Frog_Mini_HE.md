@@ -5,9 +5,9 @@ tags:
   - Keyboard
   - 60Percent
 ---
+![[29_GEON_Frog_Mini_HE.png]]
 
-
-> GEON Frog Mini with GMK Awaken
+> GEON Frog Mini with GMK Slasher
 
 ## GEON Frog Mini
 

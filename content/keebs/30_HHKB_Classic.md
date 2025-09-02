@@ -5,7 +5,7 @@ tags:
   - Keyboard
   - 60Percent
 ---
-
+![[30_HHKB_Classic.png]]
 
 > HHKB Classic with Ivory Keycaps
 
