@@ -4,12 +4,12 @@ description: d-floe's keyboard overview for the Model F62 Ultra Compact by Model
 tags:
   - 60Percent
   - Keyboard
-image: "[[22_Ultra-Compact-Model-F62-24.png]]"
+image: "[[22_Ultra-Compact-Model-F62-25.png]]"
 ---
 
-![[22_Ultra-Compact-Model-F62-24.png]]
+![[22_Ultra-Compact-Model-F62-25.png]]
 
-> **Model F62 Ultra Compact** with Unicomp Keycaps
+> **Model F62 Ultra Compact** with Model F Labs Black Keycaps
 ## Reproduction Model F62 Ultra Compact
 
 - Received: July 22nd, 2023

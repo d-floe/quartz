@@ -1,5 +1,5 @@
 ---
-title: ⭐ Saturn-60 - Topre Conversion
+title: Saturn-60 - Topre Conversion
 description: d-floe's keyboard overview for his Saturn-60 - Topre Conversion.
 tags:
   - Keyboard
