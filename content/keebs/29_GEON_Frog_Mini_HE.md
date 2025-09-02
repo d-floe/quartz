@@ -11,8 +11,8 @@ tags:
 
 ## GEON Frog Mini
 
-- Received: 
-- Weight (built): 
+- Received: August 14th, 2024
+- Sold: 
 
 ### Summary
 
