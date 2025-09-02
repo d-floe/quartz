@@ -5,9 +5,9 @@ tags:
   - Keyboard
   - 60Percent
 ---
+![[31_Saturn-60_R2.png]]
 
-
-> HHKB Classic with Ivory Keycaps
+> Saturn-60 with SA Dualshot
 
 ## GEON Frog Mini
 
