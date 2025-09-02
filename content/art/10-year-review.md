@@ -1,6 +1,7 @@
 ---
 title: Ten Year Review
 tags:
+draft: true
 ---
 
 I recently was made aware of a fun little art trend recently that caught my attention. The premise was simply just a showcase of pieces an artist has made over the past 10 years starting from the beginning of 2015 to the end of 2024. This was my take on the trend.

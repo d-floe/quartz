@@ -15,7 +15,7 @@ image: "[[niz-micro-82.png]]"
 ## Niz Micro 82
 
 - Received: November 23rd, 2022
-- Sold: Janurary 28th, 2023
+- Sold: January 28th, 2023
 - Time Owned: 66 days
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Z_3KvIWP6Is" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

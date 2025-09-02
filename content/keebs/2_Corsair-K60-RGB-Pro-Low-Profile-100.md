@@ -26,7 +26,7 @@ The Pudding keycaps on these were so cheap and rough feeling that it for a time 
 > [!fail] Cons
 >
 > -   I learned that full-sized boards are too long for me to use, I need that mouse space on the right.
->
+> 
 > -   I learned that speed/low profile switches are too sensitive for me to use. Not a fan.
 
 ### Info

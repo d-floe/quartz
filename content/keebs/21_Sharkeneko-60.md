@@ -59,7 +59,7 @@ The initial build process went pretty smoothly. I soldered [[7305-0-Gold-Sockets
 
 Next, I went ahead and installed the [[TX-Stabilizers-Rev-3|stabilizers]]. With the help of Krytox XHT-BDZ, they were a breeze to tune.
 
-My first hiccup with this build was designing the stabilizer cut-outs to be too tight on the carbon fiber plate. Initially I had trouble fitting the plate onto the PCB because the cut-outs did not fit the width of the TX Stabilizers. The fix was to file down the openings with a nail file. Thankfully this was very simple and didn't cause any noticable cosmetic defects due to carbon fiber being black all the way through as opposed to coated or anodized aluminum which scratches in a metallic gray. The decision to go completely single layout and flex-cut-less on the plate resulted in a very strong and full sound signature. It was the first build I was able to make without needing any plate or pcb foam. Full plates and full PCB's are a big part of what makes a solid sound signature in a board.
+My first hiccup with this build was designing the stabilizer cut-outs to be too tight on the carbon fiber plate. Initially I had trouble fitting the plate onto the PCB because the cut-outs did not fit the width of the TX Stabilizers. The fix was to file down the openings with a nail file. Thankfully this was very simple and didn't cause any noticeable cosmetic defects due to carbon fiber being black all the way through as opposed to coated or anodized aluminum which scratches in a metallic gray. The decision to go completely single layout and flex-cut-less on the plate resulted in a very strong and full sound signature. It was the first build I was able to make without needing any plate or pcb foam. Full plates and full PCB's are a big part of what makes a solid sound signature in a board.
 
 ![[IMG_20230424_165731.jpg]]
 
@@ -73,7 +73,7 @@ The aluminum on this board was immaculate. Every other board I've used thus far 
 
 ![[IMG_20230425_063936.jpg]]
 
-#### Stainless-steel weight
+#### Stainless-steel Weight
 
 This was probably the only part of the board I had issues with. The resulting finish of the PVD stainless-steel weight was not like the others I had seen on the manufacturers Instagram. It unfortunately was covered in scratches. The manufacturer was nice about it and let me order a sandblasted brass weight as a replacement, the cost of which was only for the clear-coat and shipping.
 
@@ -101,7 +101,6 @@ The clear coat on the brass weight started to show signs of patina. I wasn't sur
 - Switches: [[Cherry-Burgundy|Cherry Burgundy]]
 - Feet: 8x4mm black silicone bumpers
 - Weight: natural patina brass ~~clear-coat brass~~ ~~PVD stainless steel~~
-
 
 ### Photoshoot
 

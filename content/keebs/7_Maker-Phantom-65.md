@@ -20,7 +20,7 @@ image: "[[maker-phantom.jpg]]"
 
 ### Summary
 
-Probably my first self-proclaimed “premium” mechanical keyboard that I bought. Hard to believe back in 2021 people were going crazy for an in-stock drop of a weight-less Bakeneko65 with a floating blocker. I only managed to get the B-Stock unit in black, which ended up having some pretty serious dings visible on the outside of the case, hence why I later got the case Cerakoted. Gummy O-ring keyboards are actually really nice, however, when it comes to heavy tactiles, you get a "waterbed" typing feel with softer O-rings where the assembly will compress before the tactile event, springs back up after the tactile event, and then compress again on the bottom out. I definitely enjoyed daily driving this and I probably would've kept it longer were it not for the scratches on the case.
+Probably my first self-proclaimed "premium" mechanical keyboard that I bought. Hard to believe back in 2021 people were going crazy for an in-stock drop of a weight-less Bakeneko65 with a floating blocker. I only managed to get the B-Stock unit in black, which ended up having some pretty serious dings visible on the outside of the case, hence why I later got the case Cerakoted. Gummy O-ring keyboards are actually really nice, however, when it comes to heavy tactiles, you get a "waterbed" typing feel with softer O-rings where the assembly will compress before the tactile event, springs back up after the tactile event, and then compress again on the bottom out. I definitely enjoyed daily driving this and I probably would've kept it longer were it not for the scratches on the case.
 
 > [!check] Pros
 >

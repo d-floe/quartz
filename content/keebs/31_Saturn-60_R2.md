@@ -15,10 +15,6 @@ image: "[[31_Saturn-60_R2.png]]"
 - Received: November 23rd, 2024
 - Sold: March 16th, 2025
 
-### Summary
-
-WIP
-
 ### Parts
 
 - Case: Gray + Black Powder-coated steel
@@ -26,4 +22,3 @@ WIP
 - PCB: EC60
 - Stabilizers: KLC/Densus
 - Housings + Sliders: KLC/Densus
-- 

@@ -100,7 +100,7 @@ These are all the switches included in the original collectors edition sample pa
 - [Aurora Series Fog Linear](https://cannonkeys.com/products/aurora-series-fog-linear-switch "Aurora Series Fog Linear Switch")
 - [Aurora Series Pink Linear](https://cannonkeys.com/products/aurora-series-pink-linear-switch "Aurora Series Pink Linear Switch")
 
-#### Other switches
+#### Other Switches
 
 These were switches I included to make up for the empty slots that were not filled by the switches from the sample pack,
 

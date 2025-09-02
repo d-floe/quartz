@@ -15,10 +15,6 @@ image: "[[30_HHKB_Classic.png]]"
 - Received: November 20th, 2024
 - Weight (built): 533g
 
-### Summary
-
-WIP
-
 ### Parts
 
 - Case: HHKB Professional Classic

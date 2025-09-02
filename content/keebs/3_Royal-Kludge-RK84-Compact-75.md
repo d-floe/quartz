@@ -20,7 +20,7 @@ image: "[[rk84.png]]"
 
 ### Summary
 
-This is the only case where I have no photos of this keyboard. I made mock-ups of my ideal design for this build inspired by a design on WASD Keyboards, but I have no real pictures of this board. I returned it pretty soon after because I was turned off by how “cramped” the layout was.
+This is the only case where I have no photos of this keyboard. I made mock-ups of my ideal design for this build inspired by a design on WASD Keyboards, but I have no real pictures of this board. I returned it pretty soon after because I was turned off by how "cramped" the layout was.
 
 > [!check] Pros
 >

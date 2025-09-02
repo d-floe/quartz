@@ -115,7 +115,7 @@ Unlike MX switches, the push mechanism for buckling spring switches are driven b
 
 > [!bug]
 > ### Pricing
-> 
+>
 > | Vendor            | Item                                                                         | Subtotal | Total      |
 > | ----------------- | ---------------------------------------------------------------------------- | -------- | ---------- |
 > | MechMarket        | Ultra Compact Model F62 Keyboard Black, Unicomp US APL Buttons, Floss Modded | **255**  | **255**    |

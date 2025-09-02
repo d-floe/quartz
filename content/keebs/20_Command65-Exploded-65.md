@@ -12,7 +12,7 @@ image: "[[20_Command65-Exploded-65.png]]"
 
 > **Command65** with [[IFK-WoB|IFK WoB]]
 
-## PK x BIOI Command 65
+## PK X BIOI Command 65
 
 - Received: April 14, 2023
 - Sold: August 1, 2023

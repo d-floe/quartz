@@ -23,17 +23,17 @@ image: "[[cmm-isabell.jpg]]"
 ### Parts
 
 - Case: burgundy anodized aluminum
-- Configuration: 
+- Configuration:
     - Case foam
     - PE foam
     - Plate foam
 - Mid-piece: silver aluminum
 - Plate: black anodized aluminum
 - Stabilizers: [[TX-Stabilizers-Rev-3|TX Stabilizers Rev.3]]
-- Switches: 
-    - [[Cherry-MM|Cherry MM]] 
-    - [[Tecsee-Zaku|Tecsee Zaku]] 
-    - [[Cherry-Burgundy|Cherry Burgundy]] 
+- Switches:
+    - [[Cherry-MM|Cherry MM]]
+    - [[Tecsee-Zaku|Tecsee Zaku]]
+    - [[Cherry-Burgundy|Cherry Burgundy]]
     - [[JWK-MM-Alpaca|JWK MM Alpaca]]
 
 ![[19_CMM-Studio-Isabell-60-2.png]]
@@ -45,12 +45,12 @@ image: "[[cmm-isabell.jpg]]"
 >
 > ### Pricing
 >
->| Vendor              | Item                 | Subtotal   | Total                       |
->------------------- | -------------------- | ---------- | --------------------------- |
->| Kanata Keys         | Isabell 60% Keyboard | **234.96** | 234.96 + 21.58 = **256.54** |
->| Mechmarket purchase | IFK WoB              | **68**     | **68**                      |
->|                     |                      |
->| **Grand Total**     |                      | **302.96** | **324.54**                  |
+> | Vendor              | Item                 | Subtotal   | Total                       |
+> ------------------- | -------------------- | ---------- | --------------------------- |
+> | Kanata Keys         | Isabell 60% Keyboard | **234.96** | 234.96 + 21.58 = **256.54** |
+> | Mechmarket purchase | IFK WoB              | **68**     | **68**                      |
+> |                     |                      |
+> | **Grand Total**     |                      | **302.96** | **324.54**                  |
 
 ### Photoshoot
 
