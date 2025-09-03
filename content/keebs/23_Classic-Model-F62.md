@@ -5,6 +5,7 @@ tags:
   - 60Percent
   - Keyboard
 image: "[[23_Classic-Model-F62.png]]"
+owned: false
 ---
 
 ![[23_Classic-Model-F62.png]]

@@ -6,6 +6,7 @@ tags:
   - SandwichMount
   - Keyboard
 image: "[[niz-micro-82.png]]"
+owned: false
 ---
 
 ![[niz-micro-82.png]]

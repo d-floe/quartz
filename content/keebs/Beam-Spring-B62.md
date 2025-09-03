@@ -4,6 +4,7 @@ description: d-floe's keyboard overview for the Beam Spring B62 Keyboard by Mode
 tags:
   - Keyboard
 draft: true
+owned: false
 ---
 
 ![[Beam-Spring-B62-Repro.jpg]]

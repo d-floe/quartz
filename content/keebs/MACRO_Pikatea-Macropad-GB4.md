@@ -5,6 +5,7 @@ tags:
   - Macropad
   - Keyboard
 image: "[[MACRO_Pikatea-Macropad-GB4.jpg]]"
+owned: false
 ---
 
 ![[MACRO_Pikatea-Macropad-GB4.jpg]]

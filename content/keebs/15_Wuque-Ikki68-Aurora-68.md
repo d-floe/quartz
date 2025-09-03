@@ -6,6 +6,7 @@ tags:
   - GasketMount
   - Keyboard
 image: "[[ikki68-aurora.jpg]]"
+owned: false
 ---
 
 ![[ikki68-aurora.jpg]]

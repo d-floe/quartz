@@ -6,6 +6,7 @@ tags:
   - Ortholinear
   - SwitchTester
 image: "[[MISC_Ortho60-Switch-Tester-5.png]]"
+owned: true
 ---
 
 ![[MISC_Ortho60-Switch-Tester-5.png]]

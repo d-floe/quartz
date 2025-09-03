@@ -7,6 +7,7 @@ tags:
   - StackMount
   - Keyboard
 image: "[[corne.jpg]]"
+owned: false
 ---
 
 ![[corne.jpg]]

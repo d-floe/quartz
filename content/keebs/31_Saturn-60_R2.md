@@ -5,6 +5,7 @@ tags:
   - Keyboard
   - 60Percent
 image: "[[31_Saturn-60_R2.png]]"
+owned: false
 ---
 ![[31_Saturn-60_R2.png]]
 

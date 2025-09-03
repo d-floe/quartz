@@ -6,6 +6,7 @@ tags:
   - TrayMount
   - Keyboard
 image: "[[akko-mod001.jpg]]"
+owned: false
 ---
 
 ![[akko-mod001.jpg]]

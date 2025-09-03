@@ -6,6 +6,7 @@ tags:
   - GummyOring
   - Keyboard
 image: "[[21_Sharkeneko-60-14.png]]"
+owned: true
 ---
 
 ![[21_Sharkeneko-60-14.png]]

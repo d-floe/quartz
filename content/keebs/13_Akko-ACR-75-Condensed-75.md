@@ -6,6 +6,7 @@ tags:
   - StackMount
   - Keyboard
 image: "[[akko-acr75.jpg]]"
+owned: false
 ---
 
 ![[akko-acr75.jpg]]

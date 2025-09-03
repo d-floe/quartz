@@ -6,6 +6,7 @@ tags:
   - IntegratedPlate
   - Keyboard
 image: "[[corsair-k65.jpg]]"
+owned: false
 ---
 
 ![[corsair-k65.jpg]]

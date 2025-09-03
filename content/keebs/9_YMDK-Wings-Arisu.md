@@ -6,6 +6,7 @@ tags:
   - IntegratedPlate
   - Keyboard
 image: "[[ymdk-wings.jpg]]"
+owned: false
 ---
 
 ![[ymdk-wings.jpg]]

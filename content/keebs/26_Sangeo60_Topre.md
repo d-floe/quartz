@@ -6,6 +6,7 @@ tags:
   - 60Percent
   - Topre
 image: "[[26_Sangeo60_Topre.png]]"
+owned: false
 ---
 
 ![[26_Sangeo60_Topre.png]]

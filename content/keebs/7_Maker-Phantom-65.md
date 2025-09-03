@@ -6,6 +6,7 @@ tags:
   - GummyOring
   - Keyboard
 image: "[[maker-phantom.jpg]]"
+owned: false
 ---
 
 ![[maker-phantom.jpg]]

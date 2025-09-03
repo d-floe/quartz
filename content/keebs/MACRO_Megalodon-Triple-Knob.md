@@ -5,6 +5,7 @@ tags:
   - Macropad
   - Keyboard
 image: "[[MACRO_Megalodon-Triple-Knob.png]]"
+owned: true
 ---
 
 ![[MACRO_Megalodon-Triple-Knob.png]]

@@ -5,6 +5,7 @@ tags:
   - Keyboard
   - 60Percent
 image: "[[27_Tofu_Redux_Gummy.png]]"
+owned: false
 ---
 
 ![[27_Tofu_Redux_Gummy.png]]

@@ -6,6 +6,7 @@ tags:
   - GasketMount
   - Keyboard
 image: "[[bubble75.jpg]]"
+owned: false
 ---
 
 ![[bubble75.jpg]]

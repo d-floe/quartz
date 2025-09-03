@@ -6,6 +6,7 @@ tags:
   - LeafSpringMount
   - Keyboard
 image: "[[owlab-spring.jpg]]"
+owned: false
 ---
 
 ![[owlab-spring.jpg]]

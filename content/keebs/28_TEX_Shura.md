@@ -5,6 +5,7 @@ tags:
   - Keyboard
   - 60Percent
 image: "[[28_TEX_Shura.png]]"
+owned: false
 ---
 ![[28_TEX_Shura.png]]
 

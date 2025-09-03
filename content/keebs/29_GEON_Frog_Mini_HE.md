@@ -5,6 +5,7 @@ tags:
   - Keyboard
   - 60Percent
 image: "[[29_GEON_Frog_Mini_HE.png]]"
+owned: false
 ---
 ![[29_GEON_Frog_Mini_HE.png]]
 

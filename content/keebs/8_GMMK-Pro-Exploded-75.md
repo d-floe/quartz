@@ -6,6 +6,7 @@ tags:
   - GasketMount
   - Keyboard
 image: "[[gmmk-pro.jpg]]"
+owned: false
 ---
 
 ![[gmmk-pro.jpg]]

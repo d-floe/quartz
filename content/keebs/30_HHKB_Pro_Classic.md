@@ -5,6 +5,7 @@ tags:
   - Keyboard
   - 60Percent
 image: "[[30_HHKB_Classic.png]]"
+owned: true
 ---
 ![[30_HHKB_Classic.png]]
 

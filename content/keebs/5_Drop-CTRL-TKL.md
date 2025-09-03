@@ -6,6 +6,7 @@ tags:
   - IntegratedPlate
   - Keyboard
 image: "[[drop-ctrl.jpg]]"
+owned: false
 ---
 
 ![[drop-ctrl.jpg]]

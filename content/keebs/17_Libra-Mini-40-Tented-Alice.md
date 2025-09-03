@@ -7,6 +7,7 @@ tags:
   - GasketMount
   - Keyboard
 image: "[[libra-mini.jpg]]"
+owned: false
 ---
 
 ![[libra-mini.jpg]]

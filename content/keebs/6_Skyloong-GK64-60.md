@@ -6,6 +6,7 @@ tags:
   - TrayMount
   - Keyboard
 image: "[[gk64.jpg]]"
+owned: false
 ---
 
 ![[gk64.jpg]]

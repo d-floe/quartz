@@ -5,6 +5,7 @@ tags:
   - Macropad
   - Keyboard
 image: "[[MACRO_OwLab-Voice-Mini.png]]"
+owned: false
 ---
 
 ![[MACRO_OwLab-Voice-Mini.png]]

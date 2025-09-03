@@ -6,6 +6,7 @@ tags:
   - GasketMount
   - Keyboard
 image: "[[cmm-isabell.jpg]]"
+owned: false
 ---
 
 ![[cmm-isabell.jpg]]

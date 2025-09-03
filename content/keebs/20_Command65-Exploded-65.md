@@ -6,6 +6,7 @@ tags:
   - PseudoTopMount
   - Keyboard
 image: "[[20_Command65-Exploded-65.png]]"
+owned: false
 ---
 
 ![[20_Command65-Exploded-65.png]]

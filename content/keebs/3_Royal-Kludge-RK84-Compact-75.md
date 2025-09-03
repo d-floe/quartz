@@ -6,6 +6,7 @@ tags:
   - TrayMount
   - Keyboard
 image: "[[rk84.png]]"
+owned: false
 ---
 
 ![[rk84.png]]

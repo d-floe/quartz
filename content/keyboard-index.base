@@ -6,10 +6,11 @@ views:
     name: Keyboards
     order:
       - title
+      - owned
     sort:
       - property: title
         direction: ASC
-    cardSize: 220
+    cardSize: 160
     imageFit: ""
     imageAspectRatio: 0.6
     image: note.image

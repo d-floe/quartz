@@ -6,6 +6,7 @@ tags:
   - IntegratedPlate
   - Keyboard
 image: "[[keychron-k8.jpg]]"
+owned: false
 ---
 
 ![[keychron-k8.jpg]]
