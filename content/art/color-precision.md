@@ -12,7 +12,7 @@ tags:
 - Calibration is confusing and here's [[art/color-precision#Chapter 3 Calibration|how to do it.]]
 - Color management is messy and it sucks.
 
-## What is color precision?
+## What is Color Precision?
 
 Before talking about color precision, it's important that we make a distinction between **precision** and **accuracy**. Precision is all about getting consistent results, while accuracy is about getting correct results. Precision and accuracy work well hand in hand, but aren't mutually correlated. For the sake of this guide, we will be prioritizing precision over accuracy.
 
@@ -20,7 +20,7 @@ Before talking about color precision, it's important that we make a distinction 
 
 > Here's a basic diagram that helps visually describe the difference between precision and accuracy. [Image attribution](https://www.mfg-space.com/precision-vs-accuracy-what-is-the-difference/)
 
-**Color accuracy** is when the colors on all your monitors are as close to “perceptually correct” as possible. Accuracy doesn't necessarily mean that the colors on each monitor will match each other. If you're using different monitors with different color accuracy, the colors on each monitor will show up differently, despite each monitor attempting to display colors as accurately as possible.
+**Color accuracy** is when the colors on all your monitors are as close to "perceptually correct" as possible. Accuracy doesn't necessarily mean that the colors on each monitor will match each other. If you're using different monitors with different color accuracy, the colors on each monitor will show up differently, despite each monitor attempting to display colors as accurately as possible.
 
 ![[color-precision.png]]
 
@@ -28,7 +28,7 @@ Before talking about color precision, it's important that we make a distinction 
 
 ![[color-precision-1.png]]
 
-## So which one do you want?
+## So Which One Do You Want?
 
 In a perfect world, with the perfect professional setup, with perfectly color managed software, you could achieve precise and accurate outputs that exactly match the input color data. In the real world, this is especially tempting for professional photographers and video editors who work very hard to make sure the colors that they're working with are accurate and exactly how they should appear in the most ideal scenarios; however, for 99 percent of people and digital artists, you may want to **maximize color precision** at the expense of color accuracy.
 
@@ -36,7 +36,7 @@ There's nothing quite as frustrating as finishing a drawing you produced tireles
 
 ---
 
-## Chapter 0: Is this worth the investment?
+## Chapter 0: Is This Worth the Investment?
 
 If color precision has never bothered you, I welcome you to click off this guide and continue to live in blissful ignorance. Trust me, it is **far** better to not care if you don't already care; however, if you are cursed with the knowledge that your colors do not match, welcome to the club.
 
@@ -46,7 +46,7 @@ I had trouble getting DisplayCAL working with my Spyder X Pro due to Argyll 2.3.
 
 ---
 
-## Chapter 1: White points
+## Chapter 1: White Points
 
 The **white point** of your monitor is one of the most crucial things to get right when attempting to match the colors on all of your monitors. The white point is essentially the deciding factor for how the color temperature and tint your colors are. Do your grays feel too warm? Too cold? Too purple? Too green? How your white point is set will ultimately decide how the resulting color will look to your eyes.
 
@@ -60,7 +60,7 @@ The color temperature of light is measured in Kelvin, based on the temperature a
 
 > [Image attribution](https://commons.wikimedia.org/wiki/File:Color_temperature_black_body_800-12200K.svg#/media/File:Color_temperature_black_body_800-12200K.svg)
 
-A lot of sources tend to disagree on what classifies as “daylight,” “soft white,” or “neutral” light. The important thing is to pay attention to the color temperature in Kelvin.
+A lot of sources tend to disagree on what classifies as "daylight," "soft white," or "neutral" light. The important thing is to pay attention to the color temperature in Kelvin.
 
 If you use 5000K daylight bulbs in your room, you might want to set your white point to the 6500K photography standard.
 
@@ -104,10 +104,10 @@ Each monitor will need its own unique color profile to display colors as accurat
 
 If you have not installed [DisplayCAL](https://displaycal.net/), make sure to do so and any required drivers. You may need to look up how to set it up to work with your colorimeter, setup differs wildly depending on the colorimeter you use.
 
-### Getting started
+### Getting Started
 
 1. Start off by plugging your colorimeter into your PC. Make sure it connects directly to the computer instead of a USB hub or secondary device.
-2. Start DisplayCAL and make sure your colorimeter is detected, and you have the correct monitor selected. You might need to experiment with which “Mode” works best for you, but don't worry if you only have one option.
+2. Start DisplayCAL and make sure your colorimeter is detected, and you have the correct monitor selected. You might need to experiment with which "Mode" works best for you, but don't worry if you only have one option.
 
 ![[color-precision-10.png]]
 
@@ -158,7 +158,7 @@ From my experience, green tends to affect the brightness the most. What you're a
 
 ![[color-precision-22.png]]
 
-### Making sure your profile installed correctly
+### Making Sure Your Profile Installed Correctly
 
 You can double-check that your monitor profile is on by right-clicking your desktop and going to `Display settings`.
 
@@ -176,7 +176,7 @@ This information will be useful for differentiating between multiple profiles in
 
 ![[color-precision-24.png]]
 
-### Color checking your profile
+### Color Checking Your Profile
 
 Once you've calibrated all your monitors, check your colors using a non-color-managed software such as MS Paint. Paste various images into the canvas and check to see if they look consistent between your monitors. If one of your monitors appear too saturated compared to the others, you can turn down the vibrance in your graphics card control panel.
 
@@ -214,6 +214,7 @@ When taking screenshots of Photoshop and pasting the screenshot back in, Photosh
 
 Here's how to fix this issue on various color managed software.
 
+---
 ### Web Browsers
 
 Below is an untagged CSS element on top of a tagged sRGB image. If you see any difference in each color vertically, your browser is currently color managed; otherwise, both reds should look the same, both greens should look the same, and both blues should look the same.
@@ -247,10 +248,11 @@ In Firefox, go to `about:config` into your address bar and type `srgb` in the se
 
 ![[color-precision-31.png]]
 
-#### Other browsers
+#### Other Browsers
 
 If you are using another browser, it's either not color managed, or you know how to look up the solution.
 
+---
 ### Obsidian
 
 In Obsidian, go to your user settings in the bottom left. Click on `About` in the sidebar and make sure to turn `Hardware acceleration` OFF. Your Obsidian will need to be restarted.
@@ -260,6 +262,7 @@ In Obsidian, go to your user settings in the bottom left. Click on `About` in th
 
 > Left: `Hardware acceleration` ON | Right: `Hardware acceleration` OFF
 
+---
 ### Figma
 
 Currently there doesn't appear to be a viable way to turn off color management for the Figma desktop app. I suggest using the in-browser version of the app instead for color sensitive usage.
@@ -274,11 +277,13 @@ You can try to set the color profile mode to `Display P3`, however this will ins
 
 > Left: Figma in Firefox (sRGB) | Right: Figma desktop (Display P3 color profile)
 
+---
 ### Discord
 
 #### New Solution (Automatic)
 
 Open **Notepad** and paste the following script:
+
 ```bat
 @echo off
 set "discord_dir=%LOCALAPPDATA%\Discord"
@@ -293,11 +298,11 @@ for /f "delims=" %%i in ('dir /b /ad "%discord_dir%\app-*" ^| sort /r') do (
 start "" "%discord_dir%\%latest%\Discord.exe" --force-color-profile=srgb
 ```
 
->[!How it works]
->The program runs the following steps:
-> 1. Looks inside %LOCALAPPDATA%\Discord\
-> 2. Finds all folders starting with app-
-> 3. Sorts them in reverse (sort /r) so the latest version is on top
+> [!info] How it works
+> The program runs the following steps:
+> 1. Looks inside `%LOCALAPPDATA%\Discord\`
+> 2. Finds all folders starting with `app-`
+> 3. Sorts them in reverse `(sort /r)` so the latest version is on top
 > 4. Launches that version with `--force-color-profile=srgb`
 
 Save the file as a `.bat` file and name it whatever you like. Make sure to set `Save as type` to `All Files (*.*)`, and save it wherever you like.
@@ -320,13 +325,13 @@ In the `General` tab you can choose to rename it to whatever you like, and you c
 
 To use the original discord icon simply locate the `%localappdata%\Discord` path, find the `app-1.0.####` folder, locate `app.ico`, and copy-paste the file to a different location.
 
-Then in the `Properties` you can click `Change Icon...` to set the icon to the new `app.ico` icon you just pasted.
+Then in the `Properties` you can click `Change Icon` to set the icon to the new `app.ico` icon you just pasted.
 
 ![[image-1.png]]
 
 ##### Auto Startup
 
-To run your `.bat` file on startup, go to `%appdata%\Microsoft\Windows\Start Menu\Programs\Startup` in your file explorer. If there is already a Discord shortcut present feel free to delete the shortcut and copy your new shortcut into the directory. Once that is done, the `.bat` file you created should start up every time you log into windows.
+To run your `.bat` file on startup, go to `%appdata%\Microsoft\Windows\Start Menu\Programs\Startup` in your file explorer. If there is already a Discord shortcut present feel free to delete the old shortcut and copy your new shortcut into the directory. Once that is done, the `.bat` file you created should start up every time you log into windows.
 
 ![[color-precision-63.png]]
 
@@ -362,7 +367,8 @@ Afterwards you may launch Discord through the shortcut on your desktop and the c
 ![[color-precision-57.png]]
 
 > Left: Default | Right: With `--force-color-profile srgb`
-#### Old solution
+
+#### Old Solution (Deprecated)
 
 In Discord, go to your user settings in the bottom left. Click on `Advanced` in the sidebar and make sure to turn `Hardware Acceleration` OFF. Your Discord will restart automatically.
 
@@ -370,6 +376,8 @@ In Discord, go to your user settings in the bottom left. Click on `Advanced` in 
 ![[color-precision-36.png]]
 
 > Left: `Hardware Acceleration` ON | Right: `Hardware Acceleration` OFF
+
+---
 ### Adobe Photoshop / Illustrator
 
 This one took a while to figure out because people online would explicitly say **not** to do this, and yet it ended up being the solution I needed.
@@ -395,6 +403,7 @@ When using the `Export As` feature, make sure to uncheck `Convert to sRGB`.
 
 ![[color-precision-51.png]]
 
+---
 ### Clip Studio Paint
 
 Clip Studio Paint is not color managed by default, however, if your colors in Clip Studio Paint look wrong, it is possible your Color Profile is turned ON.
