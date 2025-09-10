@@ -276,13 +276,35 @@ You can try to set the color profile mode to `Display P3`, however this will ins
 
 ### Discord
 
+#### New Solution
+
+Navigate to `%localappdata%\Discord`, find the app-1.0.#### folder and locate `Discord.exe`. Right click the executable -> `Send to` -> `Desktop (create shortcut)`
+
+![[color-precision-55.png]]
+
+Once you have created a shortcut (you may rename it), right click the shortcut and click `Properties`
+
+![[image.png]]
+
+At the end of the `Target` dialogue box past the following command line argument and click `OK` or `Apply`.
+
+```
+--force-color-profile srgb
+```
+
+![[color-precision-56.png]]
+
+Afterwards you may launch Discord through the shortcut on your desktop and the colors should be displaying correctly.
+
+
+#### Old solution
+
 In Discord, go to your user settings in the bottom left. Click on `Advanced` in the sidebar and make sure to turn `Hardware Acceleration` OFF. Your Discord will restart automatically.
 
 ![[color-precision-33.png]]
 ![[color-precision-36.png]]
 
 > Left: `Hardware Acceleration` ON | Right: `Hardware Acceleration` OFF
-
 ### Adobe Photoshop / Illustrator
 
 This one took a while to figure out because people online would explicitly say **not** to do this, and yet it ended up being the solution I needed.
