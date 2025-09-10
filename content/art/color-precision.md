@@ -276,7 +276,36 @@ You can try to set the color profile mode to `Display P3`, however this will ins
 
 ### Discord
 
-#### New Solution
+### New Solution (Automatic)
+
+Open **Notepad** and paste the following script:
+```bat
+@echo off
+set "discord_dir=%LOCALAPPDATA%\Discord"
+
+rem Find the newest app-* folder
+for /f "delims=" %%i in ('dir /b /ad "%discord_dir%\app-*" ^| sort /r') do (
+    set "latest=%%i"
+    goto :found
+)
+
+:found
+start "" "%discord_dir%\%latest%\Discord.exe" --force-color-profile=srgb
+```
+
+>[!How it works]
+> 1. Looks inside %LOCALAPPDATA%\Discord\
+> 2. Finds all folders starting with app-
+> 3. Sorts them in reverse (sort /r) so the latest version is on top
+> 4. Launches that version with `--force-color-profile=srgb`
+
+Save the file as a `.bat` file and name it whatever you like. Make sure to set `Save as type` to `All Files (*.*)`, and save it wherever you like.
+
+![[color-precision-58.png]]
+#### New Solution (Manual)
+
+> [!note]
+> This method only works on a per-version basis. When discord updates, the shortcut path to Discord.exe gets changed so this is not a permanent solution. For an automatic solution please see the above section.
 
 Navigate to `%localappdata%\Discord`, find the app-1.0.#### folder and locate `Discord.exe`. Right click the executable -> `Send to` -> `Desktop (create shortcut)`
 
