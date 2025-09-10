@@ -282,6 +282,8 @@ You can try to set the color profile mode to `Display P3`, however this will ins
 
 #### New Solution (Automatic)
 
+To disable color management in Discord we will be implementing the `--force-color-profile=srgb` command line argument. Unfortunately this is not as simple as adding the parameter to the current Discord shortcut, so as a remedy I have created a script (with the help of ChatGPT) to resolve this issue.
+
 Open **Notepad** and paste the following script:
 
 ```bat
@@ -343,7 +345,9 @@ To add your `.bat` file to your Start Menu, simply go up a folder or go to `%app
 
 #### New Solution (Manual)
 
-> [!note]
+For those who prefer a more straightforward solution with no scripting involved, this is an alternative way to disable color management in Discord.
+
+> [!warning]
 > This method only works on a per-version basis. When discord updates, the shortcut path to Discord.exe gets changed so this is not a permanent solution. For an automatic solution please see the above section.
 
 Navigate to `%localappdata%\Discord`, find the `app-1.0.####` folder and locate `Discord.exe`. Right click the executable -> `Send to` -> `Desktop (create shortcut)`.
