@@ -296,7 +296,9 @@ At the end of the `Target` dialogue box past the following command line argument
 
 Afterwards you may launch Discord through the shortcut on your desktop and the colors should be displaying correctly.
 
+![[color-precision-57.png]]
 
+> Left: Default | Right: With `--force-color-profile srgb`
 #### Old solution
 
 In Discord, go to your user settings in the bottom left. Click on `Advanced` in the sidebar and make sure to turn `Hardware Acceleration` OFF. Your Discord will restart automatically.
