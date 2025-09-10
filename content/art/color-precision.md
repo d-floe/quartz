@@ -276,7 +276,7 @@ You can try to set the color profile mode to `Display P3`, however this will ins
 
 ### Discord
 
-### New Solution (Automatic)
+#### New Solution (Automatic)
 
 Open **Notepad** and paste the following script:
 ```bat
@@ -304,6 +304,8 @@ Save the file as a `.bat` file and name it whatever you like. Make sure to set `
 
 ![[color-precision-58.png]]
 
+##### Creating the Shortcut
+
 Find the `.bat` file you created and create a shortcut by right clicking the file -> `Send to` -> `Desktop (create shortcut)`
 
 ![[color-precision-59.png]]
@@ -317,6 +319,22 @@ In the `General` tab you can choose to rename it to whatever you like, and you c
 ![[color-precision-61.png]]
 
 To use the original discord icon simply locate the `%localappdata%\Discord` path, find the `app-1.0.####` folder, locate `app.ico`, and copy-paste the file to a different location.
+
+Then in the `Properties` you can click `Change Icon...` to set the icon to the new `app.ico` icon you just pasted.
+
+![[image-1.png]]
+
+##### Auto Startup
+
+To run your `.bat` file on startup, go to `%appdata%\Microsoft\Windows\Start Menu\Programs\Startup` in your file explorer. If there is already a Discord shortcut present feel free to delete the shortcut and copy your new shortcut into the directory. Once that is done, the `.bat` file you created should start up every time you log into windows.
+
+![[color-precision-63.png]]
+
+##### Start Menu
+
+To add your `.bat` file to your Start Menu, simply go up a folder or go to `%appdata%\Microsoft\Windows\Start Menu\Programs` and copy your shortcut to the destination.
+
+![[color-precision-64.png]]
 
 #### New Solution (Manual)
 
