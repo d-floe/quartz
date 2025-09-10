@@ -312,13 +312,18 @@ Now that you have a shortcut, right click the shortcut you made and go to `Prope
 
 ![[color-precision-60.png]]
 
+In the `General` tab you can choose to rename it to whatever you like, and you can even change the icon in the `Shortcut` tab.
+
+![[color-precision-61.png]]
+
+To use the original discord icon simply locate the `%localappdata%\Discord` path, find the `app-1.0.####` folder, locate `app.ico`, and copy-paste the file to a different location.
 
 #### New Solution (Manual)
 
 > [!note]
 > This method only works on a per-version basis. When discord updates, the shortcut path to Discord.exe gets changed so this is not a permanent solution. For an automatic solution please see the above section.
 
-Navigate to `%localappdata%\Discord`, find the app-1.0.#### folder and locate `Discord.exe`. Right click the executable -> `Send to` -> `Desktop (create shortcut)`.
+Navigate to `%localappdata%\Discord`, find the `app-1.0.####` folder and locate `Discord.exe`. Right click the executable -> `Send to` -> `Desktop (create shortcut)`.
 
 ![[color-precision-55.png]]
 
