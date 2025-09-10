@@ -294,6 +294,7 @@ start "" "%discord_dir%\%latest%\Discord.exe" --force-color-profile=srgb
 ```
 
 >[!How it works]
+>The program runs the following steps:
 > 1. Looks inside %LOCALAPPDATA%\Discord\
 > 2. Finds all folders starting with app-
 > 3. Sorts them in reverse (sort /r) so the latest version is on top
@@ -302,16 +303,26 @@ start "" "%discord_dir%\%latest%\Discord.exe" --force-color-profile=srgb
 Save the file as a `.bat` file and name it whatever you like. Make sure to set `Save as type` to `All Files (*.*)`, and save it wherever you like.
 
 ![[color-precision-58.png]]
+
+Find the `.bat` file you created and create a shortcut by right clicking the file -> `Send to` -> `Desktop (create shortcut)`
+
+![[color-precision-59.png]]
+
+Now that you have a shortcut, right click the shortcut you made and go to `Properties`.
+
+![[color-precision-60.png]]
+
+
 #### New Solution (Manual)
 
 > [!note]
 > This method only works on a per-version basis. When discord updates, the shortcut path to Discord.exe gets changed so this is not a permanent solution. For an automatic solution please see the above section.
 
-Navigate to `%localappdata%\Discord`, find the app-1.0.#### folder and locate `Discord.exe`. Right click the executable -> `Send to` -> `Desktop (create shortcut)`
+Navigate to `%localappdata%\Discord`, find the app-1.0.#### folder and locate `Discord.exe`. Right click the executable -> `Send to` -> `Desktop (create shortcut)`.
 
 ![[color-precision-55.png]]
 
-Once you have created a shortcut (you may rename it), right click the shortcut and click `Properties`
+Once you have created a shortcut (you may rename it), right click the shortcut and click `Properties`.
 
 ![[image.png]]
 
