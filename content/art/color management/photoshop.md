@@ -5,7 +5,7 @@ tags:
   - guide
 ---
 The following guide is a sub-article of [[color-precision|Achieving Color Precision]].
-### Adobe Photoshop / Illustrator
+## Adobe Photoshop / Illustrator
 
 This one took a while to figure out because people online would explicitly say **not** to do this, and yet it ended up being the solution I needed.
 
@@ -29,9 +29,3 @@ Before using the Quick Export feature, go to `File` -> `Export `-> `Export Prefe
 When using the `Export As` feature, make sure to uncheck `Convert to sRGB`.
 
 ![[color-precision-51.png]]
-
----
-
-## Conclusion
-
-I decided to write all this because color has been — and continues to be — a logistical nightmare to deal with. Hopefully, this guide will help clear up any confusion you may have about how to maintain color consistency. If you have any questions or suggestions, please reach out to me!

@@ -5,7 +5,7 @@ tags:
   - guide
 ---
 The following guide is a sub-article of [[color-precision|Achieving Color Precision]].
-### Obsidian
+## Obsidian
 
 In Obsidian, go to your user settings in the bottom left. Click on `About` in the sidebar and make sure to turn `Hardware acceleration` OFF. Your Obsidian will need to be restarted.
 
@@ -14,4 +14,4 @@ In Obsidian, go to your user settings in the bottom left. Click on `About` in th
 
 > Left: `Hardware acceleration` ON | Right: `Hardware acceleration` OFF
 
----
+

@@ -1,5 +1,5 @@
 ---
-title: Fixing Color Management in Clip Studio Paint
+title: Clip Studio Paint Color Management
 description: d-floe's guide on disabling color management in Clip Studio Paint.
 tags:
   - guide

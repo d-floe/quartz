@@ -5,7 +5,7 @@ tags:
   - guide
 ---
 The following guide is a sub-article of [[color-precision|Achieving Color Precision]].
-### Figma
+## Figma
 
 Currently there doesn't appear to be a viable way to turn off color management for the Figma desktop app. I suggest using the in-browser version of the app instead for color sensitive usage.
 
@@ -19,5 +19,5 @@ You can try to set the color profile mode to `Display P3`, however this will ins
 
 > Left: Figma in Firefox (sRGB) | Right: Figma desktop (Display P3 color profile)
 
----
+
 

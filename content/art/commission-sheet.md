@@ -27,10 +27,10 @@ You can contact me anytime on Twitter or Discord below!
 <div class="Comm">
   <div class="Image">![[d-floe-commission-sheet.png]]</div>
   <div class="Top">Lineart / Flat / Render</div>
-  <div class="Headshot">Headshot<br>150 / 175  / 200 USD</div>
-  <div class="Chest-up">Chest Up<br>160 / 210  / 260 USD</div>
-  <div class="Legs-up">Legs Up<br>220 / 270  / 320 USD</div>
-  <div class="Full-Pose">Full Pose<br>260 / 330  / 400 USD</div>
+  <div class="Headshot">Headshot<br>1150 / 1175  / 1200 USD</div>
+  <div class="Chest-up">Chest Up<br>1160 / 1210  / 1260 USD</div>
+  <div class="Legs-up">Legs Up<br>1220 / 1270  / 1320 USD</div>
+  <div class="Full-Pose">Full Pose<br>1260 / 1330  / 1400 USD</div>
 </div>
 
 ---

@@ -5,9 +5,9 @@ tags:
   - guide
 ---
 The following guide is a sub-article of [[color-precision|Achieving Color Precision]].
-### Discord
+## Discord
 
-#### New Solution (Automatic)
+### New Solution (Automatic)
 
 To disable color management in Discord we will be implementing the `--force-color-profile=srgb` command line argument. Unfortunately this is not as simple as adding the parameter to the current Discord shortcut, so as a remedy I have created a script (with the help of ChatGPT) to resolve this issue.
 
@@ -38,7 +38,7 @@ Save the file as a `.bat` file and name it whatever you like. Make sure to set `
 
 ![[color-precision-58.png]]
 
-##### Creating the Shortcut
+#### Creating the Shortcut
 
 Find the `.bat` file you created and create a shortcut by right clicking the file -> `Send to` -> `Desktop (create shortcut)`
 
@@ -58,19 +58,19 @@ Then in the `Properties` you can click `Change Icon` to set the icon to the new 
 
 ![[image-1.png]]
 
-##### Auto Startup
+### Auto Startup
 
 To run your `.bat` file on startup, go to `%appdata%\Microsoft\Windows\Start Menu\Programs\Startup` in your file explorer. If there is already a Discord shortcut present feel free to delete the old shortcut and copy your new shortcut into the directory. Once that is done, the `.bat` file you created should start up every time you log into windows.
 
 ![[color-precision-63.png]]
 
-##### Start Menu
+#### Start Menu
 
 To add your `.bat` file to your Start Menu, simply go up a folder or go to `%appdata%\Microsoft\Windows\Start Menu\Programs` and copy your shortcut to the destination.
 
 ![[color-precision-64.png]]
 
-#### New Solution (Manual)
+### New Solution (Manual)
 
 For those who prefer a more straightforward solution with no scripting involved, this is an alternative way to disable color management in Discord.
 
@@ -99,7 +99,7 @@ Afterwards you may launch Discord through the shortcut on your desktop and the c
 
 > Left: Default | Right: With `--force-color-profile srgb`
 
-#### Old Solution (Deprecated)
+### Old Solution (Deprecated)
 
 In Discord, go to your user settings in the bottom left. Click on `Advanced` in the sidebar and make sure to turn `Hardware Acceleration` OFF. Your Discord will restart automatically.
 
@@ -108,4 +108,4 @@ In Discord, go to your user settings in the bottom left. Click on `Advanced` in 
 
 > Left: `Hardware Acceleration` ON | Right: `Hardware Acceleration` OFF
 
----
+
