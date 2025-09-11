@@ -56,13 +56,14 @@ const defaultOptions: GraphOptions = {
   },
 }
 
+// add <h3>{i18n(cfg.locale).components.graph.title}</h3> above graph outer for title
+
 export default ((opts?: GraphOptions) => {
   const Graph: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
     const localGraph = { ...defaultOptions.localGraph, ...opts?.localGraph }
     const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph }
     return (
       <div class={classNames(displayClass, "graph")}>
-        <h3>{i18n(cfg.locale).components.graph.title}</h3>
         <div class="graph-outer">
           <div id="graph-container" data-cfg={JSON.stringify(localGraph)}></div>
           <svg
@@ -72,7 +73,7 @@ export default ((opts?: GraphOptions) => {
             xmlnsXlink="http://www.w3.org/1999/xlink"
             x="0px"
             y="0px"
-            viewBox="0 0 55 55"
+            viewBox="0 0 0 0"
             fill="currentColor"
             xmlSpace="preserve"
           >

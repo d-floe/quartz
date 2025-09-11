@@ -262,7 +262,8 @@ h3,
 h4,
 h5,
 h6,
-thead {
+thead,
+.toctext {
   font-family: var(--headerFont);
   color: var(--dark);
   font-weight: revert;

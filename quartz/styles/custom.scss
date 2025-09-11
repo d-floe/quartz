@@ -58,6 +58,12 @@ h5 {
   font-size: 1.2rem !important;
 }
 
+.toctext {
+  font-size: 1.2rem;
+  padding: 0;
+  font-weight: bold !important;
+}
+
 small,
 .text_small {
   font-size: 0.833rem !important;
@@ -754,6 +760,6 @@ th {
   text-decoration: inherit !important;
 }
 
-breadcrumb-container {
-  margin-bottom: .75rem !important;
+.breadcrumb-container {
+  margin: 1rem 0 !important;
 }
