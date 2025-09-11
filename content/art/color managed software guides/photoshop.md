@@ -1,9 +1,10 @@
 ---
 title: Fixing Color Management in Photoshop and Illustrator
-description: ---
+description: d-floe's guide on disabling color management in Adobe Photoshop and Illustrator.
 tags:
   - guide
 ---
+The following guide is a sub-article of [[color-precision|Achieving Color Precision]].
 ### Adobe Photoshop / Illustrator
 
 This one took a while to figure out because people online would explicitly say **not** to do this, and yet it ended up being the solution I needed.

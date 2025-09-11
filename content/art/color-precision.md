@@ -4,7 +4,6 @@ description: d-floe's official guide on achieving optimal color precision on all
 tags:
   - guide
 ---
-
 ## TL;DR
 
 - Color precision is when your screens match.
@@ -214,8 +213,14 @@ When taking screenshots of Photoshop and pasting the screenshot back in, Photosh
 
 Here's how to fix this issue on various color managed software.
 
----
+### Software guides
 
+- [[web-browsers#Web Browsers|Web Browsers]]
+- [[discord#Discord|Discord]]
+- [[photoshop#Adobe Photoshop / Illustrator|Adobe Photoshop / Illustrator]]
+- [[figma#Figma|Figma]]
+- [[obsidian#Obsidian|Obsidian]]
+- [[clip-studio-paint#Clip Studio Paint|Clip Studio Paint]]
 ## Conclusion
 
 I decided to write all this because color has been — and continues to be — a logistical nightmare to deal with. Hopefully, this guide will help clear up any confusion you may have about how to maintain color consistency. If you have any questions or suggestions, please reach out to me!

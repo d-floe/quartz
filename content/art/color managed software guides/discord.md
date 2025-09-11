@@ -1,9 +1,10 @@
 ---
 title: Fixing Color Management in Discord
-description: ---
+description: d-floe's guide on disabling color management in Discord.
 tags:
   - guide
 ---
+The following guide is a sub-article of [[color-precision|Achieving Color Precision]].
 ### Discord
 
 #### New Solution (Automatic)

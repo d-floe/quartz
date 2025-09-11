@@ -1,11 +1,11 @@
 ---
 title: Fixing Color Management in Web Browsers
-description: ---
+description: d-floe's guide on disabling color management in various web browsers.
 tags:
   - guide
 ---
 
----
+The following guide is a sub-article of [[color-precision|Achieving Color Precision]].
 ### Web Browsers
 
 Below is an untagged CSS element on top of a tagged sRGB image. If you see any difference in each color vertically, your browser is currently color managed; otherwise, both reds should look the same, both greens should look the same, and both blues should look the same.
