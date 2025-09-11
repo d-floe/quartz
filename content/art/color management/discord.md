@@ -70,6 +70,18 @@ To add your `.bat` file to your Start Menu, simply go up a folder or go to `%app
 
 ![[color-precision-64.png]]
 
+>[!important]
+> Make sure you DISABLE `Open Discord` in your Discord Settings located in the `Windows Settings` tab! For this to work!
+> 
+>![[discord.png]]
+
+And you're done! Discord should now default in most scenarios to launching with color management disabled.
+
+![[color-precision-57.png]]
+
+> Left: Default | Right: With `--force-color-profile srgb`
+
+---
 ### New Solution (Manual)
 
 For those who prefer a more straightforward solution with no scripting involved, this is an alternative way to disable color management in Discord.
@@ -83,7 +95,7 @@ Navigate to `%localappdata%\Discord`, find the `app-1.0.####` folder and locate 
 
 Once you have created a shortcut (you may rename it), right click the shortcut and click `Properties`.
 
-![[image.png]]
+![[discord.png]]
 
 At the end of the `Target` dialogue box past the following command line argument and click `OK` or `Apply`.
 
@@ -99,6 +111,7 @@ Afterwards you may launch Discord through the shortcut on your desktop and the c
 
 > Left: Default | Right: With `--force-color-profile srgb`
 
+---
 ### Old Solution (Deprecated)
 
 In Discord, go to your user settings in the bottom left. Click on `Advanced` in the sidebar and make sure to turn `Hardware Acceleration` OFF. Your Discord will restart automatically.
