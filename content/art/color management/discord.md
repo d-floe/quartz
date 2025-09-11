@@ -70,16 +70,16 @@ To add your `.bat` file to your Start Menu, simply go up a folder or go to `%app
 
 ![[color-precision-64.png]]
 
->[!important]
+> [!important]
 > Make sure you DISABLE `Open Discord` in your Discord Settings located in the `Windows Settings` tab! For this to work!
-> 
->![[discord.png]]
+>
+> ![[discord.png]]
 
 And you're done! Discord should now default in most scenarios to launching with color management disabled.
 
 ![[color-precision-57.png]]
 
-> Left: Default | Right: With `--force-color-profile srgb`
+> Left: Default | Right: With `--force-color-profile=srgb`
 
 ---
 ### New Solution (Manual)
@@ -120,5 +120,3 @@ In Discord, go to your user settings in the bottom left. Click on `Advanced` in 
 ![[color-precision-36.png]]
 
 > Left: `Hardware Acceleration` ON | Right: `Hardware Acceleration` OFF
-
-
