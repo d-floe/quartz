@@ -1,5 +1,5 @@
 ---
-title: Fixing Color Management in Discord
+title: Discord Color Management
 description: d-floe's guide on disabling color management in Discord.
 tags:
   - guide

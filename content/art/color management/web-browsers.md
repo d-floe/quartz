@@ -1,5 +1,5 @@
 ---
-title: Fixing Color Management in Web Browsers
+title: Web Browser Color Management
 description: d-floe's guide on disabling color management in various web browsers.
 tags:
   - guide

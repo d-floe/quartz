@@ -1,5 +1,5 @@
 ---
-title: Fixing Color Management in Obsidian
+title: Obsidian Color Management
 description: d-floe's guide on disabling color management in Obsidian.
 tags:
   - guide

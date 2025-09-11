@@ -1,5 +1,5 @@
 ---
-title: Fixing Color Management in Figma
+title: Figma Color Management
 description: d-floe's guide on disabling color management in Figma.
 tags:
   - guide

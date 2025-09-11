@@ -1,5 +1,5 @@
 ---
-title: Fixing Color Management in Photoshop and Illustrator
+title: Photoshop and Illustrator Color Management
 description: d-floe's guide on disabling color management in Adobe Photoshop and Illustrator.
 tags:
   - guide
