@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     baseUrl: "docs.d-floe.com",
-    ignorePatterns: ["!private", "templates"],
+    ignorePatterns: ["!private", "templates", "!"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
