@@ -28,7 +28,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer({
       filterFn: (node) => {
         // set containing names of everything you want to filter out
-        const omit = new Set(["ken", "!private"])
+        const omit = new Set(["ken", "!private", "keycaps", "misc", "stabilizers", "switches"])
         return !omit.has(node.name.toLowerCase())
       },
       mapFn: (node) => {
