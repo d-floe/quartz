@@ -15,11 +15,6 @@ owned: false
 
 - Received: June 25th, 2024
 - Sold: January 5th, 2025
-
-### Summary
-
-WIP
-
 ### Parts
 
 - Case: Red aluminum top, plastic black bottom

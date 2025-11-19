@@ -17,10 +17,6 @@ owned: false
 
 - Received: February 1st, 2024
 - Sold: January 7th, 2025
-
-### Summary
-WIP
-
 ### Parts
 
 - Case: Sangeo60 WK

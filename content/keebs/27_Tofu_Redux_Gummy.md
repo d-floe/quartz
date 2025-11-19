@@ -15,11 +15,6 @@ owned: false
 
 - Received: April 13th, 2024
 - Gifted: December 26th, 2024
-
-### Summary
-
-WIP
-
 ### Parts
 
 - Case: burgundy anodized aluminum

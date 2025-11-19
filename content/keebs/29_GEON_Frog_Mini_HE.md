@@ -15,11 +15,6 @@ owned: false
 
 - Received: August 14th, 2024
 - Sold: November 9th, 2024
-
-### Summary
-
-WIP
-
 ### Parts
 
 - Case: black aluminum
