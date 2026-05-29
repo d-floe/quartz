@@ -1,5 +1,5 @@
 ---
-title: ⭐Sharkeneko
+title: Sharkeneko
 description: d-floe's keyboard overview for the Sharkeneko.
 tags:
   - 60Percent
