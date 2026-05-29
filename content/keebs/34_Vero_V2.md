@@ -4,31 +4,20 @@ description: d-floe's keyboard overview for his Vero V2 by AKB.
 tags:
   - Keyboard
   - 60Percent
-image: "[[32_H2H.png]]"
+image: "[[34_Vero_V2.png]]"
 owned: true
 ---
 ![[34_Vero_V2.png]]
-> H2H with HHKB Ivory Keycaps
+> AKB Vero V2 with GMK MÜT
+## AKB Vero V2
 
-## Hannn H2H
-
-- Received: March 27th, 2025
-- Weight (built): 1493g
+- Received: May 15th, 2025
+- Weight (built): 1537g
 ### Parts
 
-- Case: Silver aluminum top + gray aluminum bottom
-- Plate: Steel
-- PCB: EC60X-SE + Pro 3 Daughterboard
-- Stabilizers: Realforce OEM (6U Wire from HHKB Pro Classic)
-- Housings + Sliders: Realforce OEM
-- Domes: DES V2 Tiffany 35g, DES V2 Pink 42g (Spacebar)
-
-![[32_H2H-7.png]]
-![[32_H2H-3.png]]
-
-![[32_H2H-4.png]]
-
-![[32_H2H-5.png]]
-
-![[32_H2H-1.png]]
-![[32_H2H-6.png]]
+- Case: Silver aluminum top + red aluminum bottom + brass weight
+- Plate: FR4
+- PCB: Vero V2 Purple PCB
+- Stabilizers: TXV4 AP
+- Switches: Trash Linears
+- Mounting Style: 45A Gasket

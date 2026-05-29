@@ -6,7 +6,7 @@ tags:
   - GummyOring
   - Keyboard
 image: "[[21_Sharkeneko-60-14.png]]"
-owned: true
+owned: false
 ---
 
 ![[21_Sharkeneko-60-14.png]]
@@ -16,6 +16,7 @@ owned: true
 ## Sharkeneko
 
 - Received: May 4th, 2023
+- Decommissioned: May 15th, 2026
 - Weight (built): 1474g / 3lbs 4oz
 
 ### Summary

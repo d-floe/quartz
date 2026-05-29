@@ -14,13 +14,14 @@ owned: true
 ## HHKB Professional Classic
 
 - Received: November 20th, 2024
-- Weight (built): 533g
+- Weight (built): 556g
 
 ### Parts
 
 - Case: HHKB Professional Classic
 - Plate: integrated plastic
-- PCB: OEM
-- Domes: 
-- Stabilizers: OEM
+- PCB: OEM + Xorlink Controller
+- Domes: Astrodomes Shiner (35g)
+- Sliders: Dynacap Red
+- Stabilizers: Dynacap Red and White
 - Springs: Densus/KLC Springs
