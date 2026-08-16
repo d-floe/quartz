@@ -40,13 +40,14 @@ The following script behaves the same as above but fixes an issue with discord's
 3. Choose **Empty** and click **Edit**.
 4. Paste the script below and save.
    
->[!warning] Important 
->**Make sure to change the X and Y values for your discord taskbar icon.**
+> [!warning] Important
+> **Make sure to change the X and Y values for your discord taskbar icon.**
 >
->Hint: you can use *Window spy* in AutoHotkey Dash to obtain these screen mouse position values.
+> Hint: you can use *Window spy* in AutoHotkey Dash to obtain these screen mouse position values.
 
 ```ahk
 #Requires AutoHotkey v2.0
+CoordMode "Mouse", "Screen"
 
 ; ==== Configuration: CHANGE THESE VALUES!!
 discordX := 2268 
