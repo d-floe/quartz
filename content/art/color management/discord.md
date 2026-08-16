@@ -73,7 +73,7 @@ Run('"' updateExe '" --processStart Discord.exe --process-start-args "--force-co
 > 2. Saves your current cursor position
 > 3. Hovers over the Discord taskbar icon briefly to remove it
 > 4. Returns your cursor to the previous position
-> 5. Launches Discord with `--force-color-profile=srgb
+> 5. Launches Discord with `--force-color-profile=srgb`
 #### Creating the Shortcut
 
 Find the `.bat` or `.ahk` file you created and create a shortcut by right clicking the file -> `Send to` -> `Desktop (create shortcut)`
@@ -107,7 +107,7 @@ To add your `.bat` file to your Start Menu, simply go up a folder or go to `%app
 ![[color-precision-64.png]]
 
 > [!important]
-> Make sure you DISABLE `Open Discord` in your Discord Settings located in the `Windows Settings` tab! For this to work!
+> Make sure you DISABLE `Open Discord` in your Discord Settings located in the `Windows Settings` tab for this to work!
 >
 > ![[discord.png]]
 
